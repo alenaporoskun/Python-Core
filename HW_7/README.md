@@ -3,9 +3,9 @@
 
 ├── clean_folder  
 │    ├── clean_folder  
-│    │   ├── clean.py 
-│    │   └── __init__.py 
-│    └── setup.py 
+│    │   ├── clean.py  
+│    │   └── __init__.py  
+│    └── setup.py  
 
 
 
