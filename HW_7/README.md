@@ -36,23 +36,13 @@
 
 # Приклад, результату виконання скрипту, окрім сортування:
 
-C:\Users\Admin>clean-folder C:\Users\Admin\Downloads\TRASH
-
-Словник зі списками файлів по групам:
-
-
-images ['photo_5249176040260094473_y.jpg', 'Screenshot_2022-10-25-13-45-25-700_com.jpg', 'skrin1.jpg']
-
-documents ['rio_2021_m5009.pdf', 'Konspekt_Python_Core.docx']
-
-audio ['10._Far_East_Movement.mp3', '025_Akon.mp3', '16._Jey_Flores_-_The_End.mp3']
-
-video ['VID_20200727_180549.mp4']
-
-archives ['lab1.zip']
-
-Розширення, відомі скрипту:     ['.PDF', '.DOCX', '.MP4', '.JPG', '.ZIP', '.MP3']
-
-Розширення, невідомі скрипту:   []
-
-Файли були відсортовані в папку 'Files'.
+* C:\Users\Admin>clean-folder C:\Users\Admin\Downloads\TRASH
+* Словник зі списками файлів по групам:
+* images ['photo_5249176040260094473_y.jpg', 'Screenshot_2022-10-25-13-45-25-700_com.jpg', 'skrin1.jpg']
+* documents ['rio_2021_m5009.pdf', 'Konspekt_Python_Core.docx']
+* audio ['10._Far_East_Movement.mp3', '025_Akon.mp3', '16._Jey_Flores_-_The_End.mp3']
+* video ['VID_20200727_180549.mp4']
+* archives ['lab1.zip']
+* Розширення, відомі скрипту:     ['.PDF', '.DOCX', '.MP4', '.JPG', '.ZIP', '.MP3']
+* Розширення, невідомі скрипту:   []
+* Файли були відсортовані в папку 'Files'.
